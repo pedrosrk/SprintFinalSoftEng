@@ -1,4 +1,4 @@
-New commit: __
-git add . __
+New commit: <br />
+git add . <br />
 git commit -m "msg" <br />
-git push origin main <br />
+git push origin main 
